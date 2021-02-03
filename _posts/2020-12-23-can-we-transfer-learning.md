@@ -9,7 +9,7 @@ tags: "writting"
 
 <span style="color:black">Summary: I share how machine learning can allow us to transfer learning from one thing to another, and if we could elevate human consciousness in the same way.</span>
 
-<img src="../../../images/can_we_transfer_learning_1.jpg" width=1000px> <br> <br>
+<img src="../../../images/can_we_transfer_learning_1.jpg" width=100%> <br> <br>
 
 The previous image is the result of a machine learning algorithm in the field of deep learning. Is the combination of two images: content image and style image. The first is to which we want to transfer the style. We transfer the style, and that style configures a learning.
 
