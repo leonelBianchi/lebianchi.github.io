@@ -60,23 +60,23 @@
         }
         
    
-        @media only screen and (max-width: 600px) {
-            .sidenav {
-                height: 80px;
-                width: 100%;
-                position: fixed;
-                background-color:white;
-                overflow-x: hidden;
-            }
-            .sidenav a {font-size: 10px; text-align: center;}
-            .main {
-                justify-content: center;
-                align-items: center;
-                text-align: center;
-                height: auto;
-                }
-            .name {font-size: 10px;}
+        @media screen and (max-width: 700px) {
+        .sidenav {
+            width: 100%;
+            height: auto;
+            position: relative;
         }
+        .sidenav a {float: left;}
+        .main {margin-left: 0;}
+        }
+
+        @media screen and (max-width: 400px) {
+        .sidenav a {
+            text-align: center;
+            float: none;
+        }
+        }
+        
         
   
 
