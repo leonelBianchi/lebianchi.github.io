@@ -10,7 +10,7 @@ Fields: AI, Civil Engineering, Deep Learning, Machine Learning, Structural Healt
 
 *Summary: Deep learning model that takes dynamic properties of the structure (in this case a vehicular bridge) as input to predict in which area of the structure there is damage (simulated as a decrease in its rigidity). This allows remote and rapid monitoring of structures at low computational cost.*
 
-<img src="../../../images/bridge.jpg" width=1000px> <span style="margin-left:400px;">
+<img src="../../../images/bridge.jpg"> <span style="margin-left:400px;">
 
 
 # Abstract
