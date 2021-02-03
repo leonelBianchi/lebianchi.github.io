@@ -41,14 +41,21 @@ The propierties of the bridge to consider are:
 * Length beams 1,6 (L1 = L6): 8 m
 * Length beams 2,3,4,5 (L2 = L3 = L4 = L5): 8 m
 
-<br><img src="../../../images/beam.png" width=1000px> <span style="margin-left:400px;">*Bridge model*
+
+<figure>
+  <img src="../../../images/beam.png" alt="my img"/>
+  <figcaption> *Bridge model* </figcaption>
+</figure>
+
+
+<br><img src="../../../images/beam.png"> <span style="margin-left:400px;">*Bridge model*
 </span><br> <br>
 
 ## Dataset
 
 The dataset are the natural frequencies and the first vibration mode from each damage event. To get this dynamic features we solve the dynamic equation with eigenvectors and eigenvalues using the previous properties for each event, modifying the stifness of each element at random. This entire calculation process is summarized in the following diagram:
 
-<br><img src="../../../images/script_damage.png" width=1000px> <span style="margin-left:200px;">*Damage simulation and obtaining dynamic properties*
+<br><img src="../../../images/script_damage.png"> <span style="margin-left:200px;">*Damage simulation and obtaining dynamic properties*
 </span><br> <br>
 
 <!--<br><img src="../../../images/matrix.png" width=1000px> <span style="margin-left:200px;">-->
