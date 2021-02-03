@@ -42,10 +42,8 @@ The propierties of the bridge to consider are:
 * Length beams 2,3,4,5 (L2 = L3 = L4 = L5): 8 m
 
 
-<figure>
-  <img src="../../../images/beam.png" alt="my img"/>
-  <span style="text-align: center"> *Bridge model* </span>
-</figure>
+<img src="../../../images/beam.png" alt="my img"/>
+<span style="text-align: center"> *Bridge model* </span>
 
 
 <br><img src="../../../images/beam.png"> <span style="margin-left:400px;">*Bridge model*
