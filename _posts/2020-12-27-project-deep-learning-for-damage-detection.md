@@ -16,6 +16,9 @@ tags: "pro"
 
     #epigrafe{
         text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
     }
 </style>
 
