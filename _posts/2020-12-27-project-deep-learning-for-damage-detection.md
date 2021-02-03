@@ -44,7 +44,7 @@ The propierties of the bridge to consider are:
 
 <figure>
   <img src="../../../images/beam.png" alt="my img"/>
-  <figcaption> *Bridge model* </figcaption>
+  <span style="text-align: center"> *Bridge model* </span>
 </figure>
 
 
