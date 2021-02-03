@@ -7,10 +7,16 @@ tags: "pro"
 ---
 
 <style>
-  img {
+    img {
     max-width: 100%;
     height: auto;
-  }
+    
+
+    }
+
+    #epigrafe{
+        text-align: center;
+    }
 </style>
 
 Fields: AI, Civil Engineering, Deep Learning, Machine Learning, Structural Health Monitoring, Technology.
@@ -43,7 +49,7 @@ The propierties of the bridge to consider are:
 
 
 <img src="../../../images/beam.png" alt="my img"/>
-<span style="text-align: center"> *Bridge model* </span>
+<span id="epigrafe"> *Bridge model* </span>
 
 
 <br><img src="../../../images/beam.png"> <span style="margin-left:400px;">*Bridge model*
