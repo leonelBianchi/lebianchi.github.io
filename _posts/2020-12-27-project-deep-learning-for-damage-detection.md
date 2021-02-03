@@ -10,15 +10,6 @@ tags: "pro"
     img {
     max-width: 100%;
     height: auto;
-    
-
-    }
-
-    #epigrafe{
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        justify-content: center;
     }
 </style>
 
@@ -51,19 +42,16 @@ The propierties of the bridge to consider are:
 * Length beams 2,3,4,5 (L2 = L3 = L4 = L5): 8 m
 
 
-<img src="../../../images/beam.png" alt="my img"/>
-<span id="epigrafe"> *Bridge model* </span>
+<img src="../../../images/beam.png"/>
 
 
-<br><img src="../../../images/beam.png"> <span style="margin-left:400px;">*Bridge model*
-</span><br> <br>
+<br><img src="../../../images/beam.png"> <br> <br>
 
 ## Dataset
 
 The dataset are the natural frequencies and the first vibration mode from each damage event. To get this dynamic features we solve the dynamic equation with eigenvectors and eigenvalues using the previous properties for each event, modifying the stifness of each element at random. This entire calculation process is summarized in the following diagram:
 
-<br><img src="../../../images/script_damage.png"> <span style="margin-left:200px;">*Damage simulation and obtaining dynamic properties*
-</span><br> <br>
+<br><img src="../../../images/script_damage.png"> <br> <br>
 
 <!--<br><img src="../../../images/matrix.png" width=1000px> <span style="margin-left:200px;">-->
 
@@ -149,11 +137,11 @@ To create the model we use Keras, an open-source software library that provides 
 
 First, we train the model by introducing the training data and setting the parameter that achieve the best performance.
 
-<br><img src="../../../images/neuralnet1.png" width=1000px>
+<br><img src="../../../images/neuralnet1.png">
 
 Then, we use the model to solve real world problems. In this case, the input data is generated from the signals given by the acelerometer located in the bridge. From that signal, it is possible to get input data needed. As output, the model tell us if any part of the beam has an important damage (stifness reduction +20%). 
 
-<br><img src="../../../images/neuralnet2.png" width=1000px>
+<br><img src="../../../images/neuralnet2.png" >
 
 # Part 4: Conclusions and results
 
@@ -161,12 +149,12 @@ The model achieved 90% accuracy and had no overfitting. This performance was ach
 
 Here are some predictions:
 
-<br><img src="../../../images/res2.png" width=1000px>
-<br><img src="../../../images/res2.png" width=1000px>
-<br><img src="../../../images/res3.png" width=1000px>
+<br><img src="../../../images/res2.png">
+<br><img src="../../../images/res2.png">
+<br><img src="../../../images/res3.png">
 
 Finally, the graph loss vs epochs. We can see that the the convergence is reached and dont overfit the model since training loss is higher than validation loss, and it perfoms well achieving training and testing loss very close.
-<br><img src="../../../images/loss.png" width=1000px>
+<br><img src="../../../images/loss.png">
 
 # Additional Resources and Learning
 
