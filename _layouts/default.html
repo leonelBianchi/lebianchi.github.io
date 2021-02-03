@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leonel Bianchi Website</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif, sans-serif;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 1100px;
+            font-size: 5px;
+        }
+        .sidenav{
+            height: 100%;
+            width: 200px;
+            position: fixed;
+            background-color:white;
+            overflow-x: hidden;
+
+        }
+        .sidenav a{
+            padding: 6px 8px 6px 16px;
+            text-align: left;
+            text-decoration: none;
+            font-size: 25px;
+            color: black;
+            display: block;
+            font-family: "Georgia", "Times New Roman", serif;
+            font-weight: 600;
+
+        }
+        .activeItem{
+            color:blue;
+        }
+        .name{
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            text-align: left;
+            font-size: 50px;
+            color:black;
+            display: block;
+            font-family: "Georgia", "Times New Roman", serif;
+            font-weight: normal;
+        }
+        .sidenav a:hover{
+            color: #473e3e7e
+        }
+        .main{
+            margin-left: 300px;
+            font-size: 20px;
+            padding: 0px 10px;
+            max-width: 1000px;
+            font-family:Helvetica, 'Open Sans', sans-serif;
+            font-weight: normal;
+            line-height: 1.6;
+            color: black;
+            text-align: justify;
+        }
+        @media screen and (max-height: 450px) {
+            .sidenav {padding-top: 15px;}
+            .sidenav a {font-size: 18px;}
+        }
+  
+
+
+    </style>
+
+</head>
+<body>
+    <div class="sidenav">
+        <h2 class="name">Leonel <br> Bianchi</h2>
+        <a href="/index">Home</a>
+        <a href="/about">About</a>
+        <a href="/blog">Blog</a>
+        <a href="/projects">Projects</a>
+        <!--<a href="/interests">Interests</a>-->
+        <a href="https://github.com/leonelBianchi" Target="_blank">Github</a>
+        <a href="/contact">Contact</a>
+
+        
+    </div>
+
+    <div class="main">
+        <h2 style="font-size: 45px;">{{ page.title }}</h2>
+        {{ content }}
+    </div>
+    
+</body>
+</html>
