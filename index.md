@@ -7,6 +7,13 @@ title: Home
 permalink: /
 ---
 
+<style>
+    img {
+    max-width: 100%;
+    height: auto;
+    }
+</style>
+
 Hi, I am Leonel. I am interested in participating in projects and jobs in data science, artificial intelligence and technology. Check the left panel to see more content.
 
 
