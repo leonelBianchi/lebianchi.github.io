@@ -14,12 +14,20 @@ permalink: /
     }
 </style>
 
-Hi, I am Leonel. I am interested in participating in projects and jobs in data science, artificial intelligence and technology. Check the left panel to see more content.
+Interested in projects and jobs in data science, artificial intelligence and technology. Check the panel to see more content.
+
+## Latest activities:
+
+<div>
+{% for post in site.posts %}
+    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
+    <a href="{{ post.url }}" style="font-size:28px; text-decoration: none; color:#547DE8">{{ post.title }}<br><br></a>
+{% endfor %}
+</div>
 
 
+<!--<img src="images/grass.jpg" width=700px> <br> <br>
+<span style="font-size: 20px">Photo by <a href="https://unsplash.com/@p_kuzovkova?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Polina Kuzovkova</a> on <a href="https://unsplash.com/t/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>-->
 
-
-<img src="images/grass.jpg" width=700px> <br> <br>
-<span style="font-size: 20px">Photo by <a href="https://unsplash.com/@p_kuzovkova?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Polina Kuzovkova</a> on <a href="https://unsplash.com/t/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 

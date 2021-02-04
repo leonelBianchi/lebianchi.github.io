@@ -5,7 +5,12 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 ---
-
+<style>
+    img {
+    width: 100%;
+    height: auto;
+    }
+</style>
 
 <span style="color:black">Summary: I share how machine learning can allow us to transfer learning from one thing to another, and if we could elevate human consciousness in the same way.</span>
 
