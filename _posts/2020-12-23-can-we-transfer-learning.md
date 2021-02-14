@@ -28,10 +28,31 @@ The concept of transfer learning could be revolutionary in search of the simulat
 
 We are very far from simulating a human brain, we are not even close to understanding it, in the most basic thing one thinks. Even so, I think this concept is another variant for its understanding in the coming years.
 
+## Output images
 
-## Additional Resources and Learning
+Here I share you how the output image was updated every 20 epochs.
 
-* [Deep learning specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2P64WXPKK9UG) 
+<img src="../../../images/transfer.png"> <br> <br>
+
+I made this model very quickly by taking two images at random. Using images that blend well, results can be much better. For example:
+
+
+<img src="../../../images/transfer2.png"> <br> <br>
+<img src="../../../images/transfer3.png"> <br> <br>
+
+
+## Resources
+
+The transfer style learning algorithm can be developed in the "Convolutional Neural Networks" course by Andrew Ng. There, you will create this algorithm from scratch. Since it is not correct to share private course code, I encourage you to take the course [here](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning).
+
+
+
+
+ 
+
+
+
+
 
 
 
