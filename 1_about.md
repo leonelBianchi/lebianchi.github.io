@@ -5,7 +5,7 @@ permalink: /about/
 
 ---
 
-I study Civil Enginering at Universidad Tecnológica Nacional Facultad Regional Buenos Aires, where I am researcher and teaching assistant. I´m from Buenos Aires, Argentina.
+Hi. I study Civil Enginering at Universidad Tecnológica Nacional Facultad Regional Buenos Aires, where I am researcher and teaching assistant. I´m from Buenos Aires, Argentina.
 
 I have been working on research projects on computational models, numerical methods and artificial intelligence applied to structural dynamics.
 
