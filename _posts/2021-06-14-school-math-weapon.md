@@ -1,0 +1,53 @@
+---
+layout: post2
+title: "School Math: A Lethal Weapon."
+permalink: /:day/:month/:year/:title
+published: true+
+tags: "pro"
+---
+<style>
+    img {
+    width: 100%;
+    height: auto;
+    }
+</style>
+
+<span style="color:black"> This text is one of the most incredible. How it generates a common thread from the teaching of a simple calculator in school to how mathematics can become a lethal weapon, being taught and promoted with the mere intention of beating everyone else (as if it were a weapon). What seems incredible to me is how the model understands the concept of "lethal weapon" in the figurative sense (not as a physical item, but as an analogy to something terribly harmful) so as to relate it to mathematics. Truly amazing.
+ 
+
+<img src="../../../images/math.png"> <br> <br>
+
+<b>Input: The following is a text that talks about whether everyone suffers from sadness (and hapiness).</b>
+
+School math is a lethal weapon.
+
+A small child is very happy to see a shiny new calculator. The child is shown the buttons on the calculator. The child is told that the calculator does not have a brain and can only do math. The child is told that the purpose of math is to make money.
+
+The child is taught about the most basic math skills. The child is also taught that math is a precise science where any mistake is punished with a slap.
+
+The child is told that the purpose of learning math is to make money. The child is told that the purpose of math is to beat everyone else in competitions. The child is told that the purpose of math is to become a doctor so that the child can beat other doctors to get the money. The child is told that the purpose of math is to become a lawyer so that the child can beat other lawyers to get the money.
+
+The child is told that the purpose of math is to become a soldier so that the child can beat other soldiers to get the money. The child is told that the purpose of math is to become an engineer so that the child can beat other engineers to get the money. The child is told that the purpose of math is to become a banker so that the child can beat other bankers to get the money.
+
+The child is taught to beat everyone else in the competitions. The child is taught to beat everyone else in the exams. The child is taught to beat everyone else in the math tests. The child is taught to beat everyone else in the math competitions.
+
+The child is taught to beat everyone else in the math wars. The child is taught to beat everyone else in the math competitions. The child is taught to beat everyone else in the math races. The child is taught to beat everyone else in the math fights.
+
+
+## Acknowledgments
+
+Photo by <a href="https://unsplash.com/@jyunker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John Yunker</a> on <a href="https://unsplash.com/s/photos/hapiness-and-sadness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+
