@@ -14,7 +14,8 @@ permalink: /
     }
 </style>
 
-Interested in projects and jobs in data science, artificial intelligence and technology. Check the panel to see more content.
+Contact me for machine learning and engineering projects (or anything interesting).
+
 
 ## Latest activities:
 
