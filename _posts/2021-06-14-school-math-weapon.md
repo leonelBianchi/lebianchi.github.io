@@ -17,9 +17,7 @@ tags: "pro"
 
 <img src="../../../images/math.png"> <br> <br>
 
-<b>Input: The following is a text that talks about whether everyone suffers from sadness (and hapiness).</b>
-
-School math is a lethal weapon.
+<b>Input: The following is a text that talks about how math taught in school can be a lethal weapon.</b>
 
 A small child is very happy to see a shiny new calculator. The child is shown the buttons on the calculator. The child is told that the calculator does not have a brain and can only do math. The child is told that the purpose of math is to make money.
 
@@ -36,7 +34,8 @@ The child is taught to beat everyone else in the math wars. The child is taught 
 
 ## Acknowledgments
 
-Photo by <a href="https://unsplash.com/@jyunker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John Yunker</a> on <a href="https://unsplash.com/s/photos/hapiness-and-sadness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/calculator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 
 
