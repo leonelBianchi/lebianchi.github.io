@@ -3,7 +3,7 @@ layout: post2
 title: "Analyzing demographic data of young people in Buenos Aires"
 permalink: /:day/:month/:year/:title
 published: true+
-tags: "pro"
+tags: "writting"
 ---
 
 <style>

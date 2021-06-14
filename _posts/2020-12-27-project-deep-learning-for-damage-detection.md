@@ -3,7 +3,7 @@ layout: post2
 title: "Deep learning for damage detection"
 permalink: /:day/:month/:year/:title
 published: true
-tags: "pro"
+tags: "writting"
 ---
 
 <style>

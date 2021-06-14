@@ -3,7 +3,7 @@ layout: post2
 title: "Exponential growth and its implications for aging and learning."
 permalink: /:day/:month/:year/:title
 published: true+
-tags: "writting"
+tags: "pro"
 ---
 <style>
     img {

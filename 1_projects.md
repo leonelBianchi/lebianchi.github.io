@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: We Teach, We Learn
+permalink: /weteachwelearn/
 ---
 
 <div>
