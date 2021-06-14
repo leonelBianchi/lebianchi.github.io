@@ -1,7 +1,7 @@
 ---
 layout: default
-title: We Teach, We Learn
-permalink: /weteachwelearn/
+title: My Black Panda
+permalink: /myblackpanda/
 ---
 
 <div>
