@@ -14,15 +14,15 @@ permalink: /
     }
 </style>
 
-Contact me for machine learning and engineering projects (or anything interesting).
+Contact me for machine learning and engineering projects (or anything interesting). Previous work related to civil engineering and research on computational models. Currently working on statistics and predictive models, studying machine learning and how to increase the learning rate of living beings.
 
 
 ## Latest activities:
 
 <div>
-{% for post in site.posts %}
+{% for post in site.posts limit:20 %}
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
-    <a href="{{ post.url }}" style="font-size:28px; text-decoration: none; color:#547DE8">{{ post.title }}<br><br></a>
+    <a href="{{ post.url }}" style="font-size:28px; text-decoration: none; color:#547DE8">{{ post.title }}<br></a>
 {% endfor %}
 </div>
 
