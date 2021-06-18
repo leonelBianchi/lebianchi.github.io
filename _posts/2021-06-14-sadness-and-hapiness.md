@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: "An objective look (at least impersonal) on happiness and sadness."
+title: "GPT-3 Explains: An objective look (at least impersonal) on happiness and sadness."
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"

@@ -20,12 +20,13 @@ Contact me for machine learning and engineering projects (or anything interestin
 ## Latest activities:
 
 <div>
-{% for post in site.posts limit:2 %}
+{% for post in site.posts limit:3 %}
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
     <a href="{{ post.url }}" style="font-size:28px; text-decoration: none; color:#547DE8">{{ post.title }}<br></a>
 {% endfor %}
 </div>
 
+<a href="/blog">See more</a>
 
 <!--<img src="images/grass.jpg" width=700px> <br> <br>
 <span style="font-size: 20px">Photo by <a href="https://unsplash.com/@p_kuzovkova?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Polina Kuzovkova</a> on <a href="https://unsplash.com/t/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>-->
