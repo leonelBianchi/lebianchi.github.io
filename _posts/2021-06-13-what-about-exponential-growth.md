@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: "Exponential growth and its implications for aging and learning."
+title: "GPT-3 Explains: Exponential growth and its implications for aging and learning."
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
