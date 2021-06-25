@@ -5,13 +5,14 @@ permalink: /about/
 
 ---
 
-Contact me for machine learning and engineering projects (or anything interesting). Previous work related to civil engineering and research on computational models. Currently working on statistics and predictive models, studying machine learning and how to increase the learning rate of living beings.
+From Buenos Aires, Argentina. Previous work related to engineering and research on computational models, structural dynamics, machine learning and statistics. Currently working on statistics and predictive models, studying how to increase the learning rate of living beings.
+
 
 <a href="https://github.com/leonelBianchi" Target="_blank">Go to my github</a>
 
 Use the python script below to decrypt my email:
 
-mail: Z6WX6Z692@4Ya2Z.8WY
+mail: XWRTaPaT2QS@4Ya2Z.8WY
 
 
 -----------------------------------------------------------------------
