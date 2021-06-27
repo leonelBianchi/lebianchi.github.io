@@ -9,19 +9,18 @@
             font-family: Helvetica, 'Open Sans', sans-serif;
             margin-left: auto;
             margin-right: auto;
-            max-width: 1000px;
-            font-size: 5px;
+            max-width: 900px;
+            font-size: 2px;
             background-color: white;
 
         }
         .main{
-            font-size: 20px;
-            max-width: 1000px;
+            font-size: 15px;
+            max-width: 900px;
             font-family:Helvetica, 'Open Sans', sans-serif;
             font-weight: normal;
             line-height: 1.6;
             color: black;
-            text-align: justify;
         }
         
         
@@ -38,13 +37,45 @@
             .main {max-width: fit-content;}
         }
 
+        .links{
+            display: inline;
+        }
+
+        .text:hover {
+            text-decoration: underline;
+        }
+
+        .header img {
+            float: left;
+            width: 40px;
+            height: 40px;
+            background: #555;
+            border-radius: 8px;
+            }
+
+        .header h2 {
+            position: relative;
+            top: 7px;
+            
+                      
+        }
     </style>
 
 </head>
 <body>
-    <a class="header" href="/index" style="text-decoration: none; font-size: 24px; margin-top: 50px; color: black;";>Notravarius</a>
-    <hr>
+
+    <div class="header">
+        <img src="../../../images/lion.png" alt="logo"/>
+        <span class="text" style="padding-left: 20px;"><a style="text-decoration: none" href="/index"><h2 class="links" style="text-decoration: none; font-size: 26px;color: #555;;font-weight:normal">Notravarius blog</h2></a></span>
+        <span class="text" style="float:right;"><a style="text-decoration: none" href="/about"><h2 class="links" style="text-decoration: none; font-size: 26px;color: #555;font-weight:normal">About</h2></a></span>
+    </div>
+    <br><br>
+
     <h2 class="title">{{ page.title }}</h2>
+    <span class="date" style="font-size: 20px;color:#555">{{ page.date | date: "%B %-d, %Y" }}</span>
+
+
+    
     <div class="main">
         <!--<h4 style="font-size: 20px; color: grey; font-weight: normal;">{{ page.date| date: "%m-%d-%Y" }}</h4>-->
         {{ content }}
