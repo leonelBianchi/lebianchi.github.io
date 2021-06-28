@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notravarius</title>
+    <title>Notravarius blog</title>
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
             margin-left: auto;
             margin-right: auto;
-            max-width: 900px;
+            max-width: 750px;
             font-size: 5px;
             background-color: white;
             color: #555;
@@ -27,7 +27,7 @@
 
         .main{
             font-size: 15px;
-            max-width: 900px;
+            max-width: 750px;
             font-family:Helvetica, 'Open Sans', sans-serif;
             font-weight: normal;
             line-height: 1.6;
@@ -86,20 +86,22 @@
 
         .header h2 {
             position: relative;
-            top: 7px;
+            top: 3px;
                       
         }
 
 
     </style>
 
+    <link rel="icon" href="../../../images/lion.png" type="image/png">
+
 </head>
 <body>
 
     <div class="header">
         <img src="../../../images/lion.png" alt="logo"/>
-        <span class="text" style="padding-left: 20px;"><a style="text-decoration: none" href="/index"><h2 class="links" style="text-decoration: none; font-size: 26px;color: #555;;font-weight:normal">Notravarius blog</h2></a></span>
-        <span class="text" style="float:right;"><a style="text-decoration: none" href="/about"><h2 class="links" style="text-decoration: none; font-size: 26px;color: #555;font-weight:normal">About</h2></a></span>
+        <span class="text" style="font-family:'Enriqueta';padding-left: 20px;"><a style="text-decoration: none" href="/index"><h2 class="links" style="text-decoration: none; font-size: 30px;color: #555;font-weight:normal;">notravarius blog</h2></a></span>
+        <span class="text" style="float:right;padding-top: 10px;"><a style="text-decoration: none" href="/about"><h2 class="links" style="text-decoration: none; font-size: 16px;color: #555;font-weight:normal;">About</h2></a></span>
     </div>
     <br><br>
 
@@ -107,6 +109,10 @@
     <div class="main">
         {{ content }}
     </div>
+
+    <br><br><br><br>
+
+    {% include footer.html %}
     
 </body>
 </html>
