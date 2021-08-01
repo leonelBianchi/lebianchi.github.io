@@ -17,7 +17,7 @@ tags: "writting"
 
 <img src="../../../images/civil-engineering.jpg"> <br> <br>
 
-<b>What is the future of civil engineering?</b>
+<b>Input: What is the future of civil engineering?</b>
 
 Engineers have a crucial role to play in the future of civil engineering. The job market is expected to increase. There is a growing focus in the world on developing infrastructure. This will require civil engineers to design and build new structures. The world is also facing challenges of climate change and the problem of pollution. Civil engineers will be needed to build new infrastructure systems and facilities that are environmentally friendly.
 
@@ -31,32 +31,32 @@ The different sectors have different types of roles. For example, in the constru
 
 In all of these sectors, there are different specialisms that civil engineers can get employed in. These include:
 
-<b>Structural engineer<b>: engineers who deal with the design and building of structures. They will design buildings, bridges, roads and power stations. They will also design steel structures like bridges.
+<b>Structural engineer</b>: engineers who deal with the design and building of structures. They will design buildings, bridges, roads and power stations. They will also design steel structures like bridges.
 
-<b>Hydraulic engineer<b>: engineers who deal with the design and building of water and sewerage networks. They will design and build storm water, waste water and drinking water networks. They will also design dams, reservoirs and flood control systems.
+<b>Hydraulic engineer</b>: engineers who deal with the design and building of water and sewerage networks. They will design and build storm water, waste water and drinking water networks. They will also design dams, reservoirs and flood control systems.
 
-<b>Transport engineer<b>: engineers who deal with the design and building of roads, rail networks, airports and harbours. They will design and build roads, pavements, tunnels and bridges. They will also design and build traffic management systems and public transport networks.
+<b>Transport engineer</b>: engineers who deal with the design and building of roads, rail networks, airports and harbours. They will design and build roads, pavements, tunnels and bridges. They will also design and build traffic management systems and public transport networks.
 
-<b>Geotechnical engineer<b>: engineers who deal with the design and building of structures that are built on the ground. They will design structures that are built on soft or unstable ground like foundations for buildings, bridges and tunnels. They will also design retaining walls and dams.
+<b>Geotechnical engineer</b>: engineers who deal with the design and building of structures that are built on the ground. They will design structures that are built on soft or unstable ground like foundations for buildings, bridges and tunnels. They will also design retaining walls and dams.
 
-<b>Environmental engineer<b>: engineers who deal with the design and building of structures that are not in the ground. They will design and build treatment systems for sewerage and water supplies. They will also design and build air pollution control systems.
+<b>Environmental engineer</b>: engineers who deal with the design and building of structures that are not in the ground. They will design and build treatment systems for sewerage and water supplies. They will also design and build air pollution control systems.
 
-<b>Geological engineer<b>: engineers who deal with the design and building of structures that are built in the ground. They will design and build underground structures such as mines. They will also design and build structures that are built on soft or unstable ground.
+<b>Geological engineer</b>: engineers who deal with the design and building of structures that are built in the ground. They will design and build underground structures such as mines. They will also design and build structures that are built on soft or unstable ground.
 
 As well as the different sectors and specialisms, there are also different kinds of civil engineer careers that you can work in.
 
-<b>Consulting engineer<b>: engineers who work on projects that are paid for by private companies. They will work in the office and will work with the client to design and build structures. They will also work on the site to supervise the engineers who are building the structure.
+<b>Consulting engineer</b>: engineers who work on projects that are paid for by private companies. They will work in the office and will work with the client to design and build structures. They will also work on the site to supervise the engineers who are building the structure.
 
-<b>Project engineer<b>: engineers who work on a specific project. They will work on the design and building of a specific structure. They will work in the office and on the site. They will also carry out inspections and supervise other engineers who are building the structure.
+<b>Project engineer</b>: engineers who work on a specific project. They will work on the design and building of a specific structure. They will work in the office and on the site. They will also carry out inspections and supervise other engineers who are building the structure.
 
-<b>Contract engineer<b>: engineers who work on specific construction projects. They will work as part of a team of engineers and designers. They will work on a specific project for a set period of time. They will work on the design and building of the structure. They will also do regular inspections of the structure to make sure that it meets the required standards.
+<b>Contract engineer</b>: engineers who work on specific construction projects. They will work as part of a team of engineers and designers. They will work on a specific project for a set period of time. They will work on the design and building of the structure. They will also do regular inspections of the structure to make sure that it meets the required standards.
 
 In the public sector, these types of careers are called civil service roles.
 
 If you are interested in any of these careers, you will usually need to do a degree in civil engineering.
 
 
-<b>How will civil engineering be affected by machine learning?<b>
+<b>How will civil engineering be affected by machine learning?</b>
 
 Predictive analytics are already used in civil engineering to predict the strength of materials and structures, and the effects of loads and temperatures.
 
@@ -78,7 +78,7 @@ Machine learning is not just disrupting the fields of technology, business and e
 
 With the help of machine learning, we can reduce the amount of time and money needed to build and repair structures, and also accelerate the development of new materials and building methods.
 
-<b>How will civil engineering be affected by blockchain technology?<b>
+<b>How will civil engineering be affected by blockchain technology?</b>
 
 The future of blockchain is uncertain. The technology is still in its infancy. As it matures, we will see more and more applications of blockchain in our daily lives. If you ask me, I would say that the future of civil engineering is more secured with the advent of blockchain.
 
@@ -96,7 +96,7 @@ Blockchain will also help maintain a high level of transparency in the construct
 
 Blockchain will help you take a closer look at a project. You will be able to track the progress of a project. You will be able to track the cost of a project. You will be able to track the quality of material used in a project
 
-<b>How to build an earthquake resistant building?<b>
+<b>How to build an earthquake resistant building?</b>
 
 When the earth shakes, buildings may suffer damage. A building can be designed to be resistant to shaking. The building must be able to:
 
@@ -106,6 +106,10 @@ When the earth shakes, buildings may suffer damage. A building can be designed t
 
 * Dissipate the energy of the earthquake
 
+## Conclusion and Comments
+
+The GPT-3 generated text talks about civil engineering at a deep level, since it not only understands what civil engineering is, it also knows how a project is carried out. In addition, it knows about physical mechanisms of material and the best part is in the end, when it explains that an earthquake resistant design must dissipate the energy of the earthquake (it's not an obvious statement, being that for other kind of phenomena, such as wind, energy dissipation is not the main design criteria). Finally, the way it links traditional civil engineering projects with machine learning and blockchain, makes us think that the model not only understands what are each of them by definition, it also knows how to generate new ideas from them.
+ 
 
 ## Acknowledgments
 
