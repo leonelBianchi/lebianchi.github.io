@@ -4,7 +4,7 @@ title: "GPT-3 Explains: Civil Engineering"
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
-img: "images/gpt_civl.jpg"
+img: "images/gpt_civil.jpg"
 
 ---
 <style>
