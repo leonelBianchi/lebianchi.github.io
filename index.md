@@ -16,13 +16,13 @@ permalink: /
 
     .text {
     text-decoration: underline;
-    font-size:15px; 
+    font-size:17px; 
     text-decoration: none; 
     color:#547DE
     }
 
     .date {
-    font-size:8px; 
+    font-size:12px; 
     text-decoration: none; 
     color:grey;
     }
@@ -32,7 +32,7 @@ permalink: /
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 20px;
    
     }
 
