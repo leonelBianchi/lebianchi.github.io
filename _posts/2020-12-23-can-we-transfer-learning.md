@@ -4,6 +4,8 @@ title: "Can we transfer learning?"
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
+img: "images/pro_transfer_learning.jpg"
+
 ---
 <style>
     img {

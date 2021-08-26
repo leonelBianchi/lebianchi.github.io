@@ -4,6 +4,8 @@ title: "GPT-3 Explains: Exponential growth and its implications for aging and le
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
+img: "images/gpt_exponential.jpg"
+
 ---
 <style>
     img {

@@ -4,6 +4,8 @@ title: "Math as Waeapon: a GPT-3 overview"
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
+img: "images/gpt_school.jpg"
+
 ---
 <style>
     img {

@@ -4,6 +4,8 @@ title: "GPT-3 Explains: Can Humans Talk to Dogs?"
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
+img: "images/gpt_dog.jpg"
+
 ---
 <style>
     img {

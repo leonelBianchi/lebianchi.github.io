@@ -4,6 +4,8 @@ title: "GPT-3 Explains: An objective look (at least impersonal) on happiness and
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
+img: "images/gpt_sadness.jpg"
+
 ---
 <style>
     img {

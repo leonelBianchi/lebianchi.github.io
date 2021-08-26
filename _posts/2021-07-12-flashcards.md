@@ -4,6 +4,8 @@ title: "GPT-3 Explains: Flashcards and Spaced Repetition"
 permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
+img: "images/gpt_flashcard.jpg"
+
 ---
 <style>
     img {

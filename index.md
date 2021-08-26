@@ -9,7 +9,7 @@ permalink: /
 
 <style>
     img {
-    max-width: 50%;
+    width: 370px;
     height: auto;
     }
 
@@ -26,6 +26,9 @@ permalink: /
 
     .media-container {
    display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   
    }
 
 </style>
