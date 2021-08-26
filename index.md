@@ -24,8 +24,6 @@ permalink: /
     font-size:17px; 
     text-decoration: none; 
     color:#547DE;
-    margin-bottom:25px;
-    max-width:100px;
     }
 
     .subtext {
