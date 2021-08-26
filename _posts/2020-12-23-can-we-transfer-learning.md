@@ -5,6 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 img: "images/pro_transfer_learning.jpg"
+description: "How machine learning can allow us to transfer learning from one thing to another, and if we could elevate human consciousness in the same way."
 
 ---
 <style>

@@ -5,6 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 img: "images/gpt_civil.jpg"
+description: "GPT-3 talking about future trends in civil engineering."
 
 ---
 <style>

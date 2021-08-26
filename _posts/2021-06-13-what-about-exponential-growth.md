@@ -5,7 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 img: "images/gpt_exponential.jpg"
-
+description: "GPT-3 talking about how exponential growth affect us in the field of aging and learning."
 ---
 <style>
     img {

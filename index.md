@@ -21,6 +21,13 @@ permalink: /
     color:#547DE
     }
 
+    .subtext {
+        font-size:12px; 
+        text-decoration: none; 
+        color:black;
+
+    }
+
     .date {
     font-size:12px; 
     text-decoration: none; 
@@ -55,9 +62,11 @@ permalink: /
 <br><br>
     {% for post in site.posts %}
         <div class="media">
+            <img src="{{ post.img }}"><br>
             <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
             <a class="text" href="{{ post.url }}">{{ post.title }}<br></a>
-            <img src="{{ post.img }}"><br>
+            <span class="subtrext">{{ post.description }}</span> <br>
+            
         </div>
     {% endfor %}
 </div>

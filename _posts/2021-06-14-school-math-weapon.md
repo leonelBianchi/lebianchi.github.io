@@ -5,6 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 img: "images/gpt_school.jpg"
+description: "GPT-3 talking about how math taught in school can be a lethal weapon."
 
 ---
 <style>

@@ -5,6 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 img: "images/gpt_sadness.jpg"
+description: "GPT-3 talking about about whether everyone suffers from sadness (and hapiness)."
 
 ---
 <style>

@@ -5,7 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true
 tags: "writting"
 img: "images/pro_damage.jpg"
-
+description: "Damage detection with deep learning (proof-of-concept)."
 ---
 
 <style>

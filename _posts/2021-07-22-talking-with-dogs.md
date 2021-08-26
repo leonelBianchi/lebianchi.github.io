@@ -5,6 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 img: "images/gpt_dog.jpg"
+description: "GPT-3 talking about how can we use machine learning to communicate with dogs."
 
 ---
 <style>

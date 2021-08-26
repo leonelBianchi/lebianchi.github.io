@@ -5,6 +5,7 @@ permalink: /:day/:month/:year/:title
 published: true+
 tags: "writting"
 img: "images/gpt_flashcard.jpg"
+description: "GPT-3 talking about how flashcards work."
 
 ---
 <style>
