@@ -27,7 +27,7 @@ permalink: /
     .media-container {
     display: flex;
     flex: 1 1 0px;
-    width: 32%;
+    width: 0;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
