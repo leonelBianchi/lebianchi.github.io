@@ -48,7 +48,7 @@ permalink: /
     {% for post in site.posts %}
         <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
         <a class="text" href="{{ post.url }}">{{ post.title }}</a><br>
-        <span class="subtext">{{ post.description }}</span> <br><br>
+        <span class="subtext">{{ post.description }}</span> <br>
         <hr>
     {% endfor %}
 </div>
