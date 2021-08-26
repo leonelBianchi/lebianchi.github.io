@@ -24,17 +24,26 @@ permalink: /
     color:#547DE
     }
 
+    .media-container {
+   display: flex;
+   }
+
 </style>
 
 
-<div>
+<div class="media-container">
 <br><br>
-{% for post in site.posts %}
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
-    <a class="text" href="{{ post.url }}">{{ post.title }}<br><br></a>
-    <img  src="{{ post.img }}">
-{% endfor %}
+    {% for post in site.posts %}
+        <div class="media">
+            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
+            <a class="text" href="{{ post.url }}">{{ post.title }}<br><br></a>
+            <img  src="{{ post.img }}"><br><br>
+        </div>
+    {% endfor %}
 </div>
+
+
+
 
 
 <!--<img src="images/grass.jpg" width=700px> <br> <br>
