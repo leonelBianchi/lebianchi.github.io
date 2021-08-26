@@ -22,7 +22,7 @@ permalink: /
     }
 
     .subtext {
-        font-size:12px; 
+        font-size:8px; 
         text-decoration: none; 
         color:black;
 
@@ -47,6 +47,7 @@ permalink: /
     flex-grow: 1;
     margin-top: 25px;
     margin-bottom:25px;
+    border-bottom: 1px solid black;
     }
 
     .media img {
@@ -65,7 +66,8 @@ permalink: /
             <img src="{{ post.img }}"><br>
             <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
             <a class="text" href="{{ post.url }}">{{ post.title }}<br></a>
-            <span class="subtrext">{{ post.description }}</span> <br>
+            <span class="subtrext">{{ post.description }}</span> <br><br><br><br>
+
             
         </div>
     {% endfor %}
