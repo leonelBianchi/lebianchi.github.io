@@ -22,18 +22,22 @@ permalink: /
     }
 
     .media-container {
+    text-align: center;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
    
     }
 
     .media {
-    flex: 0 32%;
-    height: 100px;
-    margin-bottom: 2%;
+    flex-basis: 40%;
+    flex-grow: 1;
     }
 
+    .media img {
+    width: 80%;
+    height: 80%;
+    }
 </style>
 
 
