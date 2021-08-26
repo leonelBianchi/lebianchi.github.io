@@ -9,8 +9,8 @@ permalink: /
 
 <style>
     img {
-    width: 370px;
-    height: auto;
+    width: 250px;
+    height: 250px;
     }
 
     .text:hover {
@@ -19,7 +19,7 @@ permalink: /
 
     .text {
     text-decoration: underline;
-    font-size:20px; 
+    font-size:13px; 
     text-decoration: none; 
     color:#547DE
     }
