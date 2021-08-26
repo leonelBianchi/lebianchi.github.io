@@ -25,17 +25,15 @@ permalink: /
     }
 
     .media-container {
-   display: flex;
-   
-   }
-
-    .mead {
-    width: 32%
+    display: flex;
+    flex: 1 1 0px;
+    width: 32%;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
-    flex: 1 1 0px;
-   }
+   
+    }
+
 
 </style>
 
