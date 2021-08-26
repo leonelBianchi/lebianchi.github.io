@@ -31,7 +31,10 @@ permalink: /
    justify-content: space-between;
    flex: 1 1 0px;
    width: 0;
-   
+   }
+
+   .mead {
+       width: 32%
    }
 
 </style>
