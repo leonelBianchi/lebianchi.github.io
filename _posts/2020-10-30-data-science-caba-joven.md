@@ -4,7 +4,6 @@ title: "Analyzing demographic data of young people in Buenos Aires"
 permalink: /:day/:month/:year/:title
 published: false
 tags: "writting"
-img: "gpt_civl"
 ---
 
 <style>
