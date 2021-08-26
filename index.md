@@ -53,6 +53,7 @@ permalink: /
     flex-grow: 1;
     margin-top: 25px;
     margin-bottom:25px;
+    justify-content:: center;
     }
 
     .media img {
