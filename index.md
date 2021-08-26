@@ -28,6 +28,8 @@ permalink: /
    display: flex;
    flex-wrap: wrap;
    flex-direction: row;
+   justify-content: space-between;
+   flex: 1 1 0px;
    
    }
 
