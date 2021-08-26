@@ -26,14 +26,16 @@ permalink: /
 
     .media-container {
     display: flex;
-    flex: 1 1 0px;
-    width: 0;
     flex-wrap: wrap;
-    flex-direction: row;
     justify-content: space-between;
    
     }
 
+    .media {
+    flex: 0 32%;
+    height: 100px;
+    margin-bottom: 2%;
+    }
 
 </style>
 
