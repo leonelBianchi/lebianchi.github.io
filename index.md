@@ -46,6 +46,7 @@ permalink: /
     width: 80%;
     height: 80%;
     margin-top: auto;
+    margin-bottom: auto;
     }
 </style>
 
