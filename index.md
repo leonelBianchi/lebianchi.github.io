@@ -45,6 +45,7 @@ permalink: /
     flex-direction: row;
     flex-wrap: wrap;
     justify-content:: center;
+    margin-left:50px;
    
     }
 
