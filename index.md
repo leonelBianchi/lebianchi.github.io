@@ -63,7 +63,7 @@ permalink: /
     }
 </style>
 
-<h2>My Posts</h2>
+<h2>posts</h2>
 
 <div class="media-container">
 <br><br>
