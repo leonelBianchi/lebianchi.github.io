@@ -58,8 +58,8 @@ permalink: /
     }
 
     .media img {
-    width: 100%;
-    height: 100%;
+    width: 850%;
+    height: 85%;
     margin-top: auto;
     margin-bottom: auto;
     }
