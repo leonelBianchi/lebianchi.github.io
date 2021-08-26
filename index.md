@@ -58,7 +58,7 @@ permalink: /
     }
 
     .media img {
-    width: 850%;
+    width: 85%;
     height: 85%;
     margin-top: auto;
     margin-bottom: auto;
