@@ -32,7 +32,7 @@ permalink: /
 {% for post in site.posts %}
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
     <a class="text" href="{{ post.url }}">{{ post.title }}<br><br></a>
-    <img  src="images/young.jpg">
+    <img  src="images/{{ post.img }}.jpg">
 {% endfor %}
 </div>
 
