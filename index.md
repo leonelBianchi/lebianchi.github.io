@@ -64,8 +64,7 @@ permalink: /
         <div class="media">
             <img src="{{ post.img }}"><br>
             <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
-            <a class="text" href="{{ post.url }}">{{ post.title }}<br></a>
-            <span class="subtrext">{{ post.description }}</span> <br><br><br><br>
+            <a class="text" href="{{ post.url }}">{{ post.title }}<br></a><br><br>
         </div>
     {% endfor %}
 </div>
