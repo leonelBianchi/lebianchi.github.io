@@ -16,16 +16,23 @@ permalink: /
 
     .text {
     text-decoration: underline;
-    font-size:13px; 
+    font-size:15px; 
     text-decoration: none; 
     color:#547DE
     }
 
+    .date {
+    font-size:8px; 
+    text-decoration: none; 
+    color:grey;
+    }
+
     .media-container {
-    text-align: center;
+    text-align: left;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    gap: 12px;
    
     }
 
