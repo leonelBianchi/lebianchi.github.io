@@ -43,13 +43,11 @@ permalink: /
 </style>
 
 <h2 style="text-align:center;">posts</h2><br>
-<hr>
 <div>
     {% for post in site.posts %}
         <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
         <a class="text" href="{{ post.url }}">{{ post.title }}</a><br>
         <span class="subtext">{{ post.description }}</span> <br>
-        <hr>
         <br>
     {% endfor %}
 </div>
