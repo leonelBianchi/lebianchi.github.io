@@ -38,7 +38,8 @@ permalink: /
     .media {
     flex-basis: 40%;
     flex-grow: 1;
-    margin-top: 15px;
+    margin-top: 25px;
+    margin-bottom:25;
     }
 
     .media img {
@@ -52,9 +53,9 @@ permalink: /
 <br><br>
     {% for post in site.posts %}
         <div class="media">
-            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
-            <a class="text" href="{{ post.url }}">{{ post.title }}<br><br></a>
-            <img  src="{{ post.img }}"><br>
+            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> 
+            <a class="text" href="{{ post.url }}">{{ post.title }}</a>
+            <img  src="{{ post.img }}">
         </div>
     {% endfor %}
 </div>
