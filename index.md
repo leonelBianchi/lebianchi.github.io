@@ -23,7 +23,9 @@ permalink: /
     text-decoration: underline;
     font-size:17px; 
     text-decoration: none; 
-    color:#547DE
+    color:#547DE;
+    margin-bottom:25px;
+    max-width:100px;
     }
 
     .subtext {
@@ -55,6 +57,7 @@ permalink: /
     margin-top: 25px;
     margin-bottom:25px;
     justify-content:: center;
+    max-width: 
     }
 
     .media img {
