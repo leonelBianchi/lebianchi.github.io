@@ -9,6 +9,11 @@ permalink: /
 
 <style>
     
+    .h2 {
+        font-weight: 600;
+        text-align: center;
+        
+    }
 
     .text:hover {
     text-decoration: underline;
@@ -58,6 +63,7 @@ permalink: /
     }
 </style>
 
+<h2>My Posts</h2>
 
 <div class="media-container">
 <br><br>
