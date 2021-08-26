@@ -8,10 +8,7 @@ permalink: /
 ---
 
 <style>
-    img {
-    width: 250px;
-    height: 250px;
-    }
+    
 
     .text:hover {
     text-decoration: underline;
