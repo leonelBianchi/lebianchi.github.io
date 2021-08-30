@@ -18,14 +18,14 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
         
     }
 
-    .title {
+    #title {
       font-size: 16px;
       font-weight: 600;
       color: black;
       text-decoration: none;
     }
 
-    .title:hover {
+    #title:hover {
       text-decoration: underline;
     }
 
