@@ -13,10 +13,14 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
     height: auto;
     }
 
-    #title {
+    #hide_post1, #hide_post2, #hide_post3, #hide_post4, #hide_post5, #hide_post6 {
         display: none;
-        font-size: 22px;
-        font-weight: 600;
+        
+    }
+
+    #title {
+      font-size: 22px;
+      font-weight: 600;
     }
 
 
