@@ -21,7 +21,7 @@
 title: notravarius.com
 email: notravarius@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  leonel's personal website.
+  Leonel's personal website.
 baseurl: "notravarius.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leonel113_
