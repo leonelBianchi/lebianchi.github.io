@@ -22,7 +22,7 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
 <script>
     
 function myFunction() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("hide_post");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
