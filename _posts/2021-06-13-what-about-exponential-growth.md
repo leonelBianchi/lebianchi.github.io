@@ -13,7 +13,7 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
     height: auto;
     }
 
-    #myDIV {
+    #hide_post {
         display: none;
     }
 
@@ -31,9 +31,9 @@ function myFunction() {
 }
 </script>
 
-<button onclick="myFunction()">Try it</button>
+<h2 onclick="myFunction()">Try it</h2>
 
-<div id="myDIV">
+<div id="hide_post">
 This is my DIV element.
 </div>
 
