@@ -31,7 +31,7 @@ function myFunction() {
 }
 </script>
 
-<a onclick="myFunction()">Try it</a>
+<a href="#" onClick="myFunction()">Try it</a>
 
 <div id="hide_post">
 This is my DIV element.
