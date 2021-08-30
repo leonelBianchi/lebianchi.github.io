@@ -13,10 +13,10 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
     height: auto;
     }
 
-    .myDiv {
+    #myDiv {
         display: none;
     }
-    
+
 </style>
 
 <script>
