@@ -47,8 +47,6 @@ function myFunction(post) {
 
 I had access to the GPT-3 API. Here I show some examples of how it works. Each sentence written here below is an input that I give to the model. After clicking on it, you will be able to see the output of the model, without any modification.
 
-<hr>
-
 <a id="title" href="#" onClick="myFunction('hide_post1')"><b>The following is a text talking about how exponential growth affect us in the field of aging and learning.</b></a>
 <div id="hide_post1">
 Organisms grow by increasing the mass of cells (or the number of cells) in their bodies. This is achieved by providing the cells with nutrients and oxygen and removing waste products. Organisms have developed several mechanisms to ensure that growth is balanced by the death of particular cells. If the process is not balanced, the organism grows exponentially: a doubling of the mass of cells occurs every fixed time interval.
@@ -78,7 +76,6 @@ The implication of aging being a process of eliminating cells that are not requi
 </div>
 <hr>
 <a id="title" href="#" onClick="myFunction('hide_post2')"><b>The following is a text that talks about whether everyone suffers from sadness (and hapiness).</b></a>
-<hr>
 <div id="hide_post2">
 <b>What is happiness?</b><br><br>
 The exact meaning of happiness is still not clear. In general, it may be understood as the state of a person who has power, prosperity, honor, and is not suffering from any sickness.<br><br>
@@ -131,8 +128,8 @@ They are people who feel that they have been left behind by others and are strug
 They are people who feel that they have been wronged by others.
 
 They are people who feel that they have to live alone and feel that they are being abandoned by others. They are people who feel that they have been bullied by others and feel that they are being controlled by others.
-
 </div>
+
 <hr>
 <a id="title" href="#" onClick="myFunction('hide_post3')"><b>The following is a text that talks about how math taught in school can be a lethal weapon.</b></a>
 <div id="hide_post3">
@@ -149,6 +146,7 @@ The child is taught to beat everyone else in the competitions. The child is taug
 The child is taught to beat everyone else in the math wars. The child is taught to beat everyone else in the math competitions. The child is taught to beat everyone else in the math races. The child is taught to beat everyone else in the math fights.<br>
 </div>
 
+<hr>
 <a id="title" href="#" onClick="myFunction('hide_post4')"><b>How do flashcards work?</b></a>
 <div id="hide_post4">
 Flashcards are a great way to quickly learn information and improve memory. They are ideal for students who want to learn new vocabulary, review important concepts, or prepare for upcoming exams. Flashcards can also be used to learn anything you want; you can create flashcards for anything from recipes to important dates.<br><br>
