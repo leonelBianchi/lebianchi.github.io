@@ -19,7 +19,7 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
     }
 
     #title {
-      font-size: 22px;
+      font-size: 23px;
       font-weight: 600;
       color: black;
       text-decoration: none;
@@ -31,7 +31,7 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
 
 I had access to the GPT-3 API. Here I show some examples of how it works. Each sentence in bold written here below is an input that I give to the model. Below each sentence you will be able to see the output of the model, without any human modification. 
 
-<div id="title"><b>The following is a text talking about how exponential growth affect us in the field of aging and learning.</b><div><br><br>
+<div id="title"><b>The following is a text talking about how exponential growth affect us in the field of aging and learning.</b></div><br><br>
 <div id="text">
 Organisms grow by increasing the mass of cells (or the number of cells) in their bodies. This is achieved by providing the cells with nutrients and oxygen and removing waste products. Organisms have developed several mechanisms to ensure that growth is balanced by the death of particular cells. If the process is not balanced, the organism grows exponentially: a doubling of the mass of cells occurs every fixed time interval.
 In the following, we will explore exponential growth in two related contexts: one applying to mortal beings and another to immortal beings.<br><br>
