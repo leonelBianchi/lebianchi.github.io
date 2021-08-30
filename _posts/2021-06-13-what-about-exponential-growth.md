@@ -12,9 +12,15 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
     width: 100%;
     height: auto;
     }
+
+    .myDiv {
+        display: none;
+    }
+    
 </style>
 
 <script>
+    
 function myFunction() {
   var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
