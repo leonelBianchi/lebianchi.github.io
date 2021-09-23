@@ -15,14 +15,9 @@ description: "It was needed to solve an equation to get a useful metric, but it 
     }
 </style>
 
-How would you solve the following equation?
+How would you solve the following equation? <br>
 
-
-\begin{align*}
-\frac{1-e^-(x/t)^k}{x} = \frac{k}{t}\cdot (\frac{x}{t})^{k-1} * {e^-(\frac{x}{t})^k}
-\end{align*}
-
-<img src="../../../images/can_we_transfer_learning_2.jpg"> <br> 
+<img src="../../../images/equation_1.png"> <br> 
 
 
 
