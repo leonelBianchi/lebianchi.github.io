@@ -19,7 +19,7 @@ How would you solve the following equation?
 
 
 \begin{align*}
-$$\frac{1-$e^{-$($\frac{x}{$\psi}$)^{k}$}$}{x}$ = $\frac{k}{$\psi}$ $$\frac{x}{$\psi}$^{k-1}$ $e^{-$($\frac{x}{$\psi}$)^{k}$}$ $
+\frac{1-e^-(x/t)^k}{x} = \frac{k}{t}\cdot (\frac{x}{t})^{k-1} * {e^-(\frac{x}{t})^k}
 \end{align*}
 
 <img src="../../../images/can_we_transfer_learning_2.jpg"> <br> 
