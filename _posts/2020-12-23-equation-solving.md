@@ -36,8 +36,7 @@ But it has no solution either. One way I thought is to derive both sides of the 
 There is a solution space out there for that equation and to know how it looks we can optimize it for a given K value and get its corresponding Z value. If we do that for ~ 40,000 k values, we get 40,000 data points. A polinomyal regression for that group of data points can be understood as the solution space of the equation. Take a look at the python code:
 
 
-<code>
-
+<pre><code>
 ```python
 import numpy as np
 from numpy import arange
@@ -74,7 +73,7 @@ plt.plot(k, y, "r")
 plt.plot(k_values, z_values)
 plt.show()
 ```
-</code>
+</code></pre>
 
 
 
