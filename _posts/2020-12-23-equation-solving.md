@@ -67,7 +67,10 @@ There is a solution space out there for that equation and to know how it looks w
         k_values.append(k)
         z_values.append(z[0])
 
-    log_reg = np.polyfit(np.log(k_values), z_values, 4) # creating a 4th degree polynomial logarithm regression model by minimizing the loss function given the datapoints obtained before.
+    # creating a 4th degree polynomial logarithm regression model by minimizing the loss
+    # function given the datapoints obtained before.
+
+    log_reg = np.polyfit(np.log(k_values), z_values, 4) 
 
     import matplotlib.pyplot as plt
 
