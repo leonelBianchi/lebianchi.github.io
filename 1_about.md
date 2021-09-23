@@ -18,21 +18,21 @@ permalink: /about/
 
     .text {
     text-decoration: underline;
-    font-size:16px; 
+    font-size:17px; 
     text-decoration: none; 
-    color:black;
+    color:#19232d;
     font-weight: 600;
     }
 
     .subtext {
         font-size:19px; 
         text-decoration: none; 
-        color:#282828;
+        color:#19232d;
 
     }
 
     .date {
-    font-size:15px; 
+    font-size:17px; 
     text-decoration: none; 
     color:grey;
     }
