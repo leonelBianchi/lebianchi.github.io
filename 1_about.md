@@ -18,7 +18,7 @@ permalink: /about/
 
     .text {
     text-decoration: underline;
-    font-size:22px; 
+    font-size:16px; 
     text-decoration: none; 
     color:black;
     font-weight: 600;
