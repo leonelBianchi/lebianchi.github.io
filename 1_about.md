@@ -4,6 +4,41 @@ title: About
 permalink: /about/
 
 ---
+<style>
+    
+    .h2 {
+        font-weight: 600;
+        text-align: center;
+        
+    }
+
+    .text:hover {
+    text-decoration: underline;
+    }
+
+    .text {
+    text-decoration: underline;
+    font-size:22px; 
+    text-decoration: none; 
+    color:black;
+    font-weight: 600;
+    }
+
+    .subtext {
+        font-size:19px; 
+        text-decoration: none; 
+        color:#282828;
+
+    }
+
+    .date {
+    font-size:15px; 
+    text-decoration: none; 
+    color:grey;
+    }
+
+</style>
+
 
 ## about
 

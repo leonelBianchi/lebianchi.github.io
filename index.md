@@ -12,6 +12,7 @@ permalink: /
     .h2 {
         font-weight: 600;
         text-align: center;
+        font-size: 
         
     }
 
@@ -23,7 +24,7 @@ permalink: /
     text-decoration: underline;
     font-size:22px; 
     text-decoration: none; 
-    color:black;
+    color:#19232d;
     font-weight: 600;
     }
 
@@ -42,7 +43,8 @@ permalink: /
 
 </style>
 
-<h2 style="text-align:center;">posts</h2><br>
+<br>
+
 <div>
     {% for post in site.posts %}
         <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> <br>
