@@ -37,7 +37,7 @@ There is a solution space out there for that equation and to know how it looks w
 
 
 
-```python
+```bash
     import numpy as np
     from numpy import arange
     from scipy.optimize import fsolve
@@ -47,7 +47,7 @@ There is a solution space out there for that equation and to know how it looks w
         'Function to minimize with solver.
         Args: 
             k: constant 
-            z: starting value
+            z: starting value'
 
         return z - np.log(k*z - 1) 
 
