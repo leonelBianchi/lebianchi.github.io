@@ -13,8 +13,8 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
+
 </style>
 
 How would you solve the following equation? <br>
@@ -34,6 +34,9 @@ Then we can get:
 But it has no solution either. One way I thought is to derive both sides of the equation, but since the orginal equation domain is different from its derivative, the solution for the derivative is not a solution for its primitive. So, what can we do now? 
 
 There is a solution space out there for that equation and to know how it looks we can optimize it for a given K value and get its corresponding Z value. If we do that for ~ 40,000 k values, we get 40,000 data points. A polinomyal regression for that group of data points can be understood as the solution space of the equation. Take a look at the python code:
+
+
+<code>
 
 ```python
 import numpy as np
@@ -71,7 +74,7 @@ plt.plot(k, y, "r")
 plt.plot(k_values, z_values)
 plt.show()
 ```
-
+</code>
 
 
 
