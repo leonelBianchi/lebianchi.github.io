@@ -18,9 +18,9 @@ description: "It was needed to solve an equation to get a useful metric, but it 
 How would you solve the following equation?
 
 
-
+\begin{align*}
 $$\frac{1-$e^{-$($\frac{x}{$\psi}$)^{k}$}$}{x}$ = $\frac{k}{$\psi}$ $$\frac{x}{$\psi}$^{k-1}$ $e^{-$($\frac{x}{$\psi}$)^{k}$}$ $
-
+\end{align*}
 
 <img src="../../../images/can_we_transfer_learning_2.jpg"> <br> 
 
