@@ -24,17 +24,17 @@ pre code {
 
 </style>
 
-How would you solve the following equation? <br>
+How would you solve the following equation? <br> <br>
 
 <img src="../../../images/equation_1.png" class="center"> <br> 
 
 Ok, we can solve it by approximation using numerical methods (Newton could be a possibility, for example). We put the equation as "something" equals zero, and using optimization techniques or numerical methods we can minimize it, setting zero as target value. That could be a possibility but it's not what we are looking for. What we would like to have is simple formula that returns X given k and t. I mean X = F(k,t)
 
-So I come up with the following. If we call: <br>
+So I come up with the following. If we call: <br> <br>
 
 <img src="../../../images/equation_2.png" class="center"> <br> 
 
-Then we can get:
+Then we can get: <br>
 
 <img src="../../../images/equation_3.png" class="center"> <br> 
 
@@ -67,8 +67,8 @@ There is a solution space out there for that equation and to know how it looks w
         k_values.append(k)
         z_values.append(z[0])
 
-    # creating a 4th degree polynomial logarithm regression model by minimizing the 
-    # loss function given the datapoints obtained before.
+    # creating a 4th degree polynomial logarithm regression model by minimizing  
+    # the loss function given the datapoints obtained before.
 
     log_reg = np.polyfit(np.log(k_values), z_values, 4) 
 
@@ -77,7 +77,7 @@ There is a solution space out there for that equation and to know how it looks w
     # plot both actual data point and regression model
 
     k = np.linspace(1, 5, 100)
-    
+
     y = log_reg[0]*np.log(k)**4 + 
         log_reg[1]*np.log(k)**3 + 
         log_reg[2]*np.log(k)**2 + 
