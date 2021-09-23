@@ -15,6 +15,13 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   margin-right: auto;
 }
 
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
 </style>
 
 How would you solve the following equation? <br>
@@ -37,7 +44,8 @@ There is a solution space out there for that equation and to know how it looks w
 
 
 
-```bash
+<pre>
+  <code>
     import numpy as np
     from numpy import arange
     from scipy.optimize import fsolve
@@ -72,16 +80,8 @@ There is a solution space out there for that equation and to know how it looks w
     plt.plot(k, y, "r")
     plt.plot(k_values, z_values)
     plt.show()
-```
 
-
-
- 
-
-
-
-
-
-
+  </code>
+</pre>
 
 
