@@ -67,8 +67,8 @@ There is a solution space out there for that equation and to know how it looks w
         k_values.append(k)
         z_values.append(z[0])
 
-    # creating a 4th degree polynomial logarithm regression model by minimizing the loss
-    # function given the datapoints obtained before.
+    # creating a 4th degree polynomial logarithm regression model by minimizing the 
+    # loss function given the datapoints obtained before.
 
     log_reg = np.polyfit(np.log(k_values), z_values, 4) 
 
@@ -77,7 +77,13 @@ There is a solution space out there for that equation and to know how it looks w
     # plot both actual data point and regression model
 
     k = np.linspace(1, 5, 100)
-    y = log_reg[0]*np.log(k)**4 + log_reg[1]*np.log(k)**3 + log_reg[2]*np.log(k)**2 + log_reg[3]*np.log(k) + log_reg[4]
+    
+    y = log_reg[0]*np.log(k)**4 + 
+        log_reg[1]*np.log(k)**3 + 
+        log_reg[2]*np.log(k)**2 + 
+        log_reg[3]*np.log(k) + 
+        log_reg[4]
+
     fig = plt.figure()
     ax = fig.add_subplot(1,1,1)
     plt.plot(k, y, "r")
