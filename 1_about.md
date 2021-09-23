@@ -25,7 +25,7 @@ permalink: /about/
     }
 
     .subtext {
-        font-size:19px; 
+        font-size:17px; 
         text-decoration: none; 
         color:#19232d;
 
