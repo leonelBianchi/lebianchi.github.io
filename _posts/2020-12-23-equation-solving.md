@@ -20,7 +20,7 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   border: 1px solid #999;
   display: block;
   padding: 20px;
-  max-width: 750px;
+  max-width: fit-content;
   white-space: pre;
 }
 
