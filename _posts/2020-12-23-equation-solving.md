@@ -20,6 +20,7 @@ pre code {
   border: 1px solid #999;
   display: block;
   padding: 20px;
+  max-width: 750px;
 }
 
 </style>
@@ -93,4 +94,31 @@ There is a solution space out there for that equation and to know how it looks w
   </code>
 </pre>
 
+With that code, you can generate a polynomial regression for that group of data points. I used the logarithm of the Z values, because I could figure out that the solution space follows a logarithm trend, but we can adopt whatever function that better fits the data. Here I show different regressions:
 
+<img src="../../../images/equation_4.png"> <br> 
+
+<img src="../../../images/equation_5.png"> <br> 
+
+You can see that a 2nd degree regression is very accurate. 
+
+**Note: remember that we don't have to worry about any statistical concept here such as overfitting, confidence or whatever that comes to your mind when looking at an "overfitted" regression showed above. Why? Because we are trying to find the solution space for a given equation, which has an unknown function that describes it. We are not estimating anything or dealing with any kind of probability. So, to get the polynomial that better fits the data, I adopted a 4th degree polynomial, which was the one that returned better results.**
+
+Ok, so now we have simple formula to get Z given K, which is: <br> 
+
+<img src="../../../images/equation_6.png"> <br> 
+
+Replacing in the equation before, we get that X depends only on K and t <br> 
+
+<img src="../../../images/equation_7.png"> <br> 
+
+Where:  
+  A = -0.0116787739
+  B = 0.0835902446 
+  C = -0.317746063
+  D = 1.99637801
+  E = 0.000209194991
+
+## Comments
+
+This methodology seems to be very obvious but we sometimes forget that brute force can sometimes play an important role to solve problems we are not used to solve in that way. However, if you are able to find a better way solve it, do not hesitate to contact me and share your alternative!
