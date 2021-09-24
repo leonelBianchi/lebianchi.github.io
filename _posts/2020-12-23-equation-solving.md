@@ -23,6 +23,10 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   max-width: 750px;
 }
 
+p {
+  white-space: pre;
+}
+
   .img_general {
 width: 100%;
 height: auto;
@@ -65,8 +69,7 @@ There is a solution space out there for that equation and to know how it looks w
 
 
 <div class="code_block">
-  <pre>
-  <code>
+  <p>
   import numpy as np
   from numpy import arange
   from scipy.optimize import fsolve
@@ -117,8 +120,7 @@ There is a solution space out there for that equation and to know how it looks w
             loc ="lower right", prop={'size': 15})
 
   plt.show()
-  </pre>
-  </code>
+  </p>
 </div>
 
 With that code, you can generate a 4th degree polynomial regression for that group of data points. I used the logarithm of the Z values, because I could figure out that the solution space follows a logarithm trend, but we can adopt whatever function that better fits the data. Here I show different regressions:
