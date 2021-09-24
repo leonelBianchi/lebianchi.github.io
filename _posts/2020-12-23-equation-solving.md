@@ -20,7 +20,6 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   border: 1px solid #999;
   display: block;
   padding: 20px;
-  max-width: fit-content;
   white-space: pre;
 }
 
@@ -117,6 +116,8 @@ There is a solution space out there for that equation and to know how it looks w
 
   plt.show()
 </div>
+
+<br>
 
 With that code, you can generate a 4th degree polynomial regression for that group of data points. I used the logarithm of the Z values, because I could figure out that the solution space follows a logarithm trend, but we can adopt whatever function that better fits the data. Here I show different regressions:
 
