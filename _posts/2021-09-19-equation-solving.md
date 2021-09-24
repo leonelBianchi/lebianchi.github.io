@@ -116,7 +116,7 @@ There is a solution space out there for that equation and to know how it looks w
 
   plt.show()
 </div>
-source code: https://github.com/notravarius/implicit-equation-solution
+[source code](https://github.com/notravarius/implicit-equation-solution) 
 
 
 <br>
