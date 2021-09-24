@@ -34,7 +34,7 @@ height: auto;
                 
         }
 @media screen and (max-width: 400px) {
-            .pcode_block {max-width: fit-content; font-size:10px;}
+            .code_block {max-width: fit-content; font-size:10px;}
                 
         }
 
