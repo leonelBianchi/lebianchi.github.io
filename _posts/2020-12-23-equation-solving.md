@@ -23,10 +23,15 @@ pre code {
   max-width: 750px;
 }
 
-  img {
-  width: 100%;
-  height: auto;
-  }
+  .img_general {
+width: 100%;
+height: auto;
+}
+
+@media screen and (max-width: 768px) {
+            .pre code {max-width: fit-content;}
+                
+        }
 
 </style>
 
@@ -110,18 +115,18 @@ You can see that a 2nd degree regression is very accurate.
 
 Ok, so now we have simple formula to get Z given K, which is: <br> 
 
-<img src="../../../images/equation_6.png"> <br> 
+<img src="../../../images/equation_6.png" class="img_general> <br> 
 
 Replacing in the equation before, we get that X depends only on K and t <br> 
 
-<img src="../../../images/equation_7.png"> <br> 
+<img src="../../../images/equation_7.png" class="img_general"> <br> 
 
 Where:  
-  A = -0.0116787739
-  B = 0.0835902446 
-  C = -0.317746063
-  D = 1.99637801
-  E = 0.000209194991
+  A = -0.0116787739<br> 
+  B = 0.0835902446 <br> 
+  C = -0.317746063<br> 
+  D = 1.99637801<br> 
+  E = 0.000209194991<br> 
 
 ## Comments
 
