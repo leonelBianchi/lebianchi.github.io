@@ -29,16 +29,16 @@ height: auto;
 }
 
 @media screen and (max-width: 700px) {
-            .code_block {max-width: 700px; font-size:10px;}
+            .code_block {max-width: fit-content; font-size:10px;}
                 
         }
 @media screen and (max-width: 400px) {
-            .code_block {max-width: 400px; font-size:10px;}
+            .code_block {max-width: fit-content; font-size:10px;}
                 
         }
 
 @media screen and (max-width: 768px) {
-            .code_block {max-width: 768px; font-size:10px;}
+            .code_block {max-width: fit-content; font-size:10px;}
                 
         }
 
@@ -120,6 +120,8 @@ There is a solution space out there for that equation and to know how it looks w
 <br>
 
 With that code, you can generate a 4th degree polynomial regression for that group of data points. I used the logarithm of the Z values, because I could figure out that the solution space follows a logarithm trend, but we can adopt whatever function that better fits the data. Here I show different regressions:
+
+<br>
 
 <img src="../../../images/equation_4.png" class="img_general"> <br> 
 
