@@ -15,7 +15,7 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   margin-right: auto;
 }
 
-pre code {
+.code_block {
   background-color: #eee;
   border: 1px solid #999;
   display: block;
@@ -29,16 +29,16 @@ height: auto;
 }
 
 @media screen and (max-width: 700px) {
-            .pre code {max-width: fit-content; font-size:10px;}
+            .code_block {max-width: fit-content; font-size:10px;}
                 
         }
 @media screen and (max-width: 400px) {
-            .pre code {max-width: fit-content; font-size:10px;}
+            .pcode_block {max-width: fit-content; font-size:10px;}
                 
         }
 
 @media screen and (max-width: 768) {
-            .pre code {max-width: fit-content; font-size:10px;}
+            .code_block {max-width: fit-content; font-size:10px;}
                 
         }
 
@@ -64,8 +64,7 @@ There is a solution space out there for that equation and to know how it looks w
 
 
 
-<pre>
-  <code>
+<div class="code_block">
   import numpy as np
   from numpy import arange
   from scipy.optimize import fsolve
@@ -112,12 +111,12 @@ There is a solution space out there for that equation and to know how it looks w
   plt.ylabel('Z', size=15)
   plt.title('Solution Space for Z = ln(KZ + 1)', size=20)
   plt.grid(True)
-  plt.legend(["4th degree logarithm regression", "Z = ln(KZ + 1)"], loc ="lower right", prop={'size': 15})
+  plt.legend(["4th degree logarithm regression", "Z = ln(KZ + 1)"], 
+            loc ="lower right", prop={'size': 15})
 
   plt.show()
 
-  </code>
-</pre>
+</div>
 
 With that code, you can generate a 4th degree polynomial regression for that group of data points. I used the logarithm of the Z values, because I could figure out that the solution space follows a logarithm trend, but we can adopt whatever function that better fits the data. Here I show different regressions:
 
