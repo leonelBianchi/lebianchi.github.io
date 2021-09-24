@@ -29,7 +29,19 @@ width: 100%;
 height: auto;
 }
 
+@media screen and (max-width: 700px) {
+            .code_block {max-width: 700px; font-size:10px;}
+                
+        }
+@media screen and (max-width: 400px) {
+            .code_block {max-width: 400px; font-size:10px;}
+                
+        }
 
+@media screen and (max-width: 768px) {
+            .code_block {max-width: 768px; font-size:10px;}
+                
+        }
 
 </style>
 
