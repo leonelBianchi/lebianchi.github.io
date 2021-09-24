@@ -106,20 +106,20 @@ There is a solution space out there for that equation and to know how it looks w
 
 With that code, you can generate a polynomial regression for that group of data points. I used the logarithm of the Z values, because I could figure out that the solution space follows a logarithm trend, but we can adopt whatever function that better fits the data. Here I show different regressions:
 
-<img src="../../../images/equation_4.png"> <br> 
+<img src="../../../images/equation_4.png" class="img_general"> <br> 
 
-<img src="../../../images/equation_5.png"> <br> 
+<img src="../../../images/equation_5.png" class="img_general"> <br> 
 
 You can see that a 2nd degree regression is very accurate. 
 
 
 Ok, so now we have simple formula to get Z given K, which is: <br> 
 
-<img src="../../../images/equation_6.png" class="img_general> <br> 
+<img src="../../../images/equation_6.png" class="center"> <br> 
 
 Replacing in the equation before, we get that X depends only on K and t <br> 
 
-<img src="../../../images/equation_7.png" class="img_general"> <br> 
+<img src="../../../images/equation_7.png" class="center"> <br> 
 
 Where:  
   A = -0.0116787739<br> 
