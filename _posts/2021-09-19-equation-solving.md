@@ -13,6 +13,7 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: fit-content;
 }
 
 
