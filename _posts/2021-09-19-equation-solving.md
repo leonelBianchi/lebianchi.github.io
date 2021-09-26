@@ -16,8 +16,7 @@ description: "It was needed to solve an equation to get a useful metric, but it 
 }
 
 .code_block {
-  background-color: #eee;
-  border: 1px solid #999;
+  font-size: 9px;
   display: block;
   padding: 20px;
   white-space: pre;
@@ -62,7 +61,8 @@ But it has no solution either. One way I thought is to derive both sides of the 
 
 There is a solution space out there for that equation and to know how it looks we can optimize it for a given K value and get its corresponding Z value. If we do that for ~ 40,000 k values, we get 40,000 data points. A polinomyal regression for that group of data points can be understood as the solution space of the equation. Take a look at the python code:
 
-```python
+<div class="code_block">
+<hr>
 import numpy as np
 from numpy import arange
 from scipy.optimize import fsolve
@@ -113,7 +113,8 @@ plt.legend(["4th degree logarithm regression", "Z = ln(KZ + 1)"],
           loc ="lower right", prop={'size': 15})
 
 plt.show()
-```
+<hr>
+</div>
 
 
 [source code](https://github.com/notravarius/implicit-equation-solution) 
