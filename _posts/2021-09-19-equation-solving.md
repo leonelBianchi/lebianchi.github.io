@@ -63,9 +63,9 @@ But it has no solution either. One way I thought is to derive both sides of the 
 There is a solution space out there for that equation and to know how it looks we can optimize it for a given K value and get its corresponding Z value. If we do that for ~ 40,000 k values, we get 40,000 data points. A polinomyal regression for that group of data points can be understood as the solution space of the equation. Take a look at the python code:
 
 
-
-<div class="code_block">
-  import numpy as np
+<pre class="line-numbers">
+   <code class="language-css">
+      import numpy as np
   from numpy import arange
   from scipy.optimize import fsolve
 
@@ -115,7 +115,10 @@ There is a solution space out there for that equation and to know how it looks w
             loc ="lower right", prop={'size': 15})
 
   plt.show()
-</div>
+   </code>
+</pre>
+
+
 [source code](https://github.com/notravarius/implicit-equation-solution) 
 
 
