@@ -15,31 +15,12 @@ description: "It was needed to solve an equation to get a useful metric, but it 
   margin-right: auto;
 }
 
-.code_block {
-  font-size: 9px;
-  display: block;
-  padding: 20px;
-  white-space: pre;
-}
+
 
   .img_general {
 width: 100%;
 height: auto;
 }
-
-@media screen and (max-width: 700px) {
-            .code_block {max-width: 300px; font-size:10px;}
-                
-        }
-@media screen and (max-width: 400px) {
-            .code_block {max-width: 300px; font-size:10px;}
-                
-        }
-
-@media screen and (max-width: 768px) {
-            .code_block {max-width: 300px; font-size:10px;}
-                
-        }
 
 </style>
 
@@ -61,7 +42,7 @@ But it has no solution either. One way I thought is to derive both sides of the 
 
 There is a solution space out there for that equation and to know how it looks we can optimize it for a given K value and get its corresponding Z value. If we do that for ~ 40,000 k values, we get 40,000 data points. A polinomyal regression for that group of data points can be understood as the solution space of the equation. Take a look at the python code:
 
-<script src="https://gist.github.com/notravarius/94400a9a146c3f71e05e1387ccc3f82a.js"></script>
+<script src="https://gist.github.com/notravarius/e8e81bf8c0e7c25aa72ccb8f0ccc1822.js"></script>
 
 [source code](https://github.com/notravarius/implicit-equation-solution) 
 
