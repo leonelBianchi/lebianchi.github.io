@@ -13,8 +13,12 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
     height: auto;
     }
 
-    #text {
-        color: #006400;
+    pre code {
+      background-color: #eee;
+      border: 1px solid #999;
+      display: block;
+      padding: 20px;
+    }
         
     }
 
@@ -32,7 +36,10 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
 I had access to the GPT-3 API. Here I show some examples of how it works. Each sentence in bold written here below is an input that I give to the model. Below each sentence you will be able to see the output of the model, without any human modification. 
 
 <div id="title"><b>The following is a text talking about how exponential growth affect us in the field of aging and learning.</b></div><br>
-<div id="text">
+
+<pre>
+  <code>
+
 Organisms grow by increasing the mass of cells (or the number of cells) in their bodies. This is achieved by providing the cells with nutrients and oxygen and removing waste products. Organisms have developed several mechanisms to ensure that growth is balanced by the death of particular cells. If the process is not balanced, the organism grows exponentially: a doubling of the mass of cells occurs every fixed time interval.
 In the following, we will explore exponential growth in two related contexts: one applying to mortal beings and another to immortal beings.<br><br>
 
@@ -59,9 +66,14 @@ Programmed cell death also has an important implication in the context of aging.
 The implication of aging being a process of eliminating cells that are not required can be used to explain some of the observations related to aging. For example, it can explain why some organs are more affected by aging than others. This is because those organs have a larger number of cells that are not required by the body.<br>
 </div> <br>
 
+</code>
+</pre>
+
 <div id="title"><b>The following is a text that talks about whether everyone suffers from sadness (and hapiness).</b></div><br>
 
-<div id="text">
+<pre>
+<code>
+
 <b>What is happiness?</b><br><br>
 The exact meaning of happiness is still not clear. In general, it may be understood as the state of a person who has power, prosperity, honor, and is not suffering from any sickness.<br><br>
 
@@ -113,11 +125,19 @@ They are people who feel that they have been left behind by others and are strug
 They are people who feel that they have been wronged by others.
 
 They are people who feel that they have to live alone and feel that they are being abandoned by others. They are people who feel that they have been bullied by others and feel that they are being controlled by others.
-</div><br>
+
+</code>
+</pre>
+
+<br>
 
 
 <div id="title"><b>The following is a text that talks about how math taught in school can be a lethal weapon.</b></div><br>
 <div id="text">
+
+<pre>
+  <code>
+
 A small child is very happy to see a shiny new calculator. The child is shown the buttons on the calculator. The child is told that the calculator does not have a brain and can only do math. The child is told that the purpose of math is to make money. <br><br>
 
 The child is taught about the most basic math skills. The child is also taught that math is a precise science where any mistake is punished with a slap.<br><br>
@@ -129,10 +149,19 @@ The child is told that the purpose of math is to become a soldier so that the ch
 The child is taught to beat everyone else in the competitions. The child is taught to beat everyone else in the exams. The child is taught to beat everyone else in the math tests. The child is taught to beat everyone else in the math competitions.<br><br>
 
 The child is taught to beat everyone else in the math wars. The child is taught to beat everyone else in the math competitions. The child is taught to beat everyone else in the math races. The child is taught to beat everyone else in the math fights.<br>
-</div><br>
+
+</code>
+</pre>
+
+
+<br>
 
 <div id="title"><b>How do flashcards work?</b></div><br>
-<div id="text">
+
+<pre>
+  <code>
+
+
 Flashcards are a great way to quickly learn information and improve memory. They are ideal for students who want to learn new vocabulary, review important concepts, or prepare for upcoming exams. Flashcards can also be used to learn anything you want; you can create flashcards for anything from recipes to important dates.<br><br>
 
 <b>How do you use flashcards?</b>
@@ -144,10 +173,16 @@ To create flashcards, simply type the words or phrases you want to learn into th
 Flashcards are very useful for studying. If you are preparing for a test, you can use the flashcards to study the definitions of key vocabulary words and phrases. If you are trying to learn a language, you can use the flashcards to study the words and phrases you want to learn. Whatever you want to study, flashcards can help you learn it.<br><br>
 
 Sites like Flashcards can be very useful, and they can be used in a number of different ways. In addition to studying for a test, for example, they can be used to learn a new language or to learn new recipes. They can also be used to learn important information. No matter what you want to learn, flashcards can help you do it.<br>
-</div><br>
+
+</code>
+</pre>
+
+
+<br>
 
 <div id="title"><b>How can we use machine learning to communicate with dogs?</b></div><br>
-<div id="text">
+<pre>
+  <code>
 This idea came up one day when I was playing with my dog, and I wondered if I could use computer vision to find the shapes and patterns in dog barks. If I could do that, then I could create a machine learning model that recognized different barks, and I could even create a text-to-bark model that could translate human natural language into dog barks!<br><br>
 
 I really wanted to figure this out and I knew Google had a lot of the tools I needed already built, so I started trying to put this together. I didn't have any background in machine learning or computer vision, but I knew that if I could just play around with the tools in the cloud, I'd be able to learn the basics and figure out how to use them to solve my problem.<br><br>
@@ -167,10 +202,15 @@ I trained a model using audio data, and I also used some video data to train a v
 Once I was happy with the model, I wanted to try to create a model that could translate a human language into dog barks. I really wanted to test this out, but I knew that some of the words in human language might be hard for a dog to bark. I wanted to see how far I could take this. I showed my dog some pictures of common objects and I taught her to bark the name of the object. I wanted to make her bark the word for the object, but it was a lot harder than I thought it would be. I thought it would be really funny if I could get her to bark the name of the object.<br><br>
 
 After a lot of hard work, I got my dog to bark the word "dolphin" and it was amazing. I took a video and I uploaded it to Cloud Speech-to-Text, so I could translate it into text. I was thrilled with the results, but I was also really surprised to see that my dog recognized the word dolphin!<br>
-</div><br>
+</code>
+</pre>
+
+<br>
 
 <div id="title"><b>What is the future of civil engineering?</b></div><br>
-<div id="text">
+<pre>
+  <code>
+
 Engineers have a crucial role to play in the future of civil engineering. The job market is expected to increase. There is a growing focus in the world on developing infrastructure. This will require civil engineers to design and build new structures. The world is also facing challenges of climate change and the problem of pollution. Civil engineers will be needed to build new infrastructure systems and facilities that are environmentally friendly.<br><br>
 
 There are many opportunities for civil engineers. Employment opportunities are expected to increase in both the private and public sectors. Engineers who have the right training and skills will have the best opportunities.<br><br>
@@ -258,7 +298,8 @@ When the earth shakes, buildings may suffer damage. A building can be designed t
 
 * Dissipate the energy of the earthquake<br><br>
 
-</div>
+</code>
+</pre>
 
 <b>Comments</b><br>
 
