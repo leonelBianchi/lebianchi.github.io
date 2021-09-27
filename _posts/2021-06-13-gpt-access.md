@@ -32,9 +32,9 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
 
 </style>
 
-I had access to the GPT-3 API. Here I show some examples of how it works. Each sentence in bold written here below is an input that I give to the model. Below each sentence you will be able to see the output of the model, without any human modification. 
+I had access to the GPT-3 API. Here I show some examples of how it works. Each sentence in bold written here below is an input that I gave to the model. Below each sentence you will be able to see the output of the model (within the grey box) without any human modification. 
 
-<div id="title"><b>The following is a text talking about how exponential growth affect us in the field of aging and learning.</b></div><br>
+<div id="title"><b>The following is a text talking about how exponential growth affect us in the field of aging and learning</b></div><br>
 <div id="text">
 Organisms grow by increasing the mass of cells (or the number of cells) in their bodies. This is achieved by providing the cells with nutrients and oxygen and removing waste products. Organisms have developed several mechanisms to ensure that growth is balanced by the death of particular cells. If the process is not balanced, the organism grows exponentially: a doubling of the mass of cells occurs every fixed time interval.
 In the following, we will explore exponential growth in two related contexts: one applying to mortal beings and another to immortal beings.<br><br>
@@ -263,7 +263,8 @@ When the earth shakes, buildings may suffer damage. A building can be designed t
 
 </div>
 
-<b>Comments</b><br>
+## Comments
+<br>
 
 The GPT-3 generated text talks about civil engineering at a deep level, since it not only understands what civil engineering is, it also knows how a project is carried out. In addition, it knows about physical mechanisms of material and the best part is in the end, when it explains that an earthquake resistant design must dissipate the energy of the earthquake (it's not an obvious statement, being that for other kind of phenomena, such as wind, energy dissipation is not the main design criteria). Finally, the way it links traditional civil engineering projects with machine learning and blockchain, makes us think that the model not only understands what are each of them by definition, it also knows how to generate new ideas from them.
 
