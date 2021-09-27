@@ -19,7 +19,7 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
       display: block;
       padding: 20px;
       white-space: pre;
-      width: 100%; 
+      max-width: fit-content; 
     }
         
     }
