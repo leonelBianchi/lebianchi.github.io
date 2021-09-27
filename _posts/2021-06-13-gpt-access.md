@@ -264,7 +264,6 @@ When the earth shakes, buildings may suffer damage. A building can be designed t
 </div>
 
 ## Comments
-<br>
 
 The GPT-3 generated text talks about civil engineering at a deep level, since it not only understands what civil engineering is, it also knows how a project is carried out. In addition, it knows about physical mechanisms of material and the best part is in the end, when it explains that an earthquake resistant design must dissipate the energy of the earthquake (it's not an obvious statement, being that for other kind of phenomena, such as wind, energy dissipation is not the main design criteria). Finally, the way it links traditional civil engineering projects with machine learning and blockchain, makes us think that the model not only understands what are each of them by definition, it also knows how to generate new ideas from them.
 
