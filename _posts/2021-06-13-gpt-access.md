@@ -18,6 +18,7 @@ description: "After 6 months of requesting access to use the OpenAI API of the m
       border: 1px solid #999;
       display: block;
       padding: 20px;
+      white-space: pre;
     }
         
     }
