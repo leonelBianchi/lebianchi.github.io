@@ -29,11 +29,11 @@ La sincronizacion Excel-AutoCAD no esta muy popularizada pero es muy sencilla. E
 
 La imagen de abajo muestra el formato general de brida que comunmente se usaba. 
 
-<img src="../../../images/brida_1.png" class="center"> <br> 
+<img src="../../../images/brida_1.jpg" class="center"> <br> 
 
 Siguiendo el nombre de las distancias mostradas, se calculan en una planilla de excel de tal forma que verifiquen todas las solicitaciones (corte de bulones, flexión de ala y alma, tracción de bulones, soldadura brida-alma, soldadura brida-ala, entre otras.)
 
-<img src="../../../images/brida_2.png" class="center"> <br> 
+<img src="../../../images/brida_2.jpg" class="center"> <br> 
 
 Lo que hacemos basicamente, es agregar un boton a la planillas que al clickearlo abra AutoCAD con los dibujos de todas las bridas calculadas, cada una con sus dimensiones y bulones adoptados.
 
@@ -62,6 +62,6 @@ Esto mismo se aplica para dibujar los bulones y texto. Tambien dibujar cada cosa
 
 Agregando el codigo a excel junto a un boton, al ejecturalo veremos lo siguiente:
 
-<img src="../../../images/brida_3.png" class="center"> <br> 
+<img src="../../../images/brida_3.jpg" class="center"> <br> 
 
 Es decir, se grafican las bridas que hayan sido completadas en la planillas cada una con sus dimensiones, formato, nombre y bulones correspondientes.
