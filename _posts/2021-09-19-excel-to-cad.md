@@ -27,7 +27,7 @@ description: "Implementacion de macro para generar planos en AutoCAD tomando val
 
 La sincronizacion Excel-AutoCAD no esta muy popularizada pero es muy sencilla. Entiendo que quizas a veces no conviene ya que cada proyecto es distinto y no tendria sentido armar algo que hay que mantener y actualizar por cada proyecto que se haga. Pero en casos donde siempre hacemos lo mismo, viene bien. Por ejemplo, en este caso se trata de bridas de union para estructuras metalicas de naves industriales. Siempre se usan los mismos tipos de bridas y depende el proyecto, se adoptan distintas dimensiones, distintos bulones y distintos tamaños. Todos ellos se calculan en una planilla de Excel. 
 
-La imagen de abajo muestra el formato general de brida que comunmente se usaba. 
+La imágen de abajo muestra el formato general de brida que comunmente se usaba. 
 
 <img src="../../../images/brida_1.jpg" class="center"> <br> 
 
@@ -68,5 +68,5 @@ Es decir, se grafican las bridas que hayan sido completadas en la planillas cada
 
 ## Comentarios
 
-En ingenieria no esta muy usado, quizas porque nadie se puso hacerlo y los propios ingenieros no estan muy en el tema. Creo que es una gran oportunidad de crear algo copado que facilite la vida a todos los estudios de ingenieria para automatizar sus trabajos facilmente. Si lees esto y te interesaría armarlo, avisame!
+En ingeniería no esta muy usado, quizas porque nadie se puso hacerlo y los propios ingenieros no estan muy en el tema. Sí se usan en software de cálculo que permiten exportar los detalles facilmente, pero nada que sea personalizado por el usuario a su propio interes. Creo que puede ser una buena oportunidad para crear algo copado que facilite la vida a todos los estudios de ingenieria para automatizar sus trabajos facilmente. Si lees esto y te interesaría armarlo, avisame!
 
