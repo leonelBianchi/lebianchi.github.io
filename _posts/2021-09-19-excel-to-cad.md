@@ -68,5 +68,5 @@ Es decir, se grafican las bridas que hayan sido completadas en la planillas cada
 
 ## Comentarios
 
-En ingeniería no esta muy usado, quizas porque nadie se puso hacerlo y los propios ingenieros no estan muy en el tema. Sí se usan en software de cálculo que permiten exportar los detalles facilmente, pero nada que sea personalizado por el usuario a su propio interes. Creo que puede ser una buena oportunidad para crear algo copado que facilite la vida a todos los estudios de ingenieria para automatizar sus trabajos facilmente. Si lees esto y te interesaría armarlo, avisame!
+En ingeniería no esta muy usado, quizás porque nadie se puso hacerlo y los propios ingenieros no estan muy en el tema. Sí se usan en software de cálculo que permiten exportar los detalles facilmente, pero nada que sea personalizado por el usuario a su propio interes. Creo que puede ser una buena oportunidad para crear algo copado que facilite la vida a todos los estudios de ingenieria para automatizar sus trabajos facilmente. Si lees esto y te interesaría armarlo, avisame!
 
