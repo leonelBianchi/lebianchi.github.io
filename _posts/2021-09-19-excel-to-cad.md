@@ -18,8 +18,8 @@ description: "Implementacion de macro para generar planos en AutoCAD tomando val
 
 
 
-  .img_general {
-    max-width: 100%;
+  img {
+    width: 100%;
     height: auto;
 }
 
