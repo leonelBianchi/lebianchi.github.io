@@ -42,7 +42,7 @@ permalink: /about/
 
 ## about
 
-I'm from Buenos Aires, Argentina. I studied civil engineering at <a href="https://www.frba.utn.edu.ar/" target="_blank">Universidad Tecnológica Nacional Facultad Regional Buenos Aires</a>. I participated in different kind of projects related to structural dynamics, computational models, machine learning and statistics. One of my goals is to understand (and help understand) why we do what we do.
+I'm from Buenos Aires, Argentina. I studied civil engineering at <a href="https://www.frba.utn.edu.ar/" target="_blank">Universidad Tecnológica Nacional Facultad Regional Buenos Aires</a>. I participated in different kind of projects related to structural dynamics, computational models, machine learning and statistics. Open to collaborate on any kind of project and try to make it happen.
 
 <a href="https://github.com/notravarius" Target="_blank">Github</a>
 <a href="https://twitter.com/notravarius" Target="_blank">Twitter</a>
@@ -55,6 +55,26 @@ I'm from Buenos Aires, Argentina. I studied civil engineering at <a href="https:
     <a class="text" href="{{ post.url }}">{{ post.title }}<br></a>
 {% endfor %}
 </div>
+
+## education
+
+Civil Engineer. Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
+
+## work experience
+
+Semi Senior Data Science Analyst at Nielsen Company. Member of Global Analytics Incubator Team. Working with machine learning stuff and numerical solutiuons.
+
+Internship in structural engineering office. Assistance to senior engineers in the design of steel structures and generation of documentation: Mainly industrial warehouses.
+
+## research experience
+
+Teacher Assistant of course "Numerical Methods" at Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
+
+## publications
+
+Characterization of Pile Failure Dimensions Using Neural Networks (in spanish).  26° Jornadas Argentinas de Ingeniería Estructural, 2021.
+
+
 
 
 
