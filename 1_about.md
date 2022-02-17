@@ -56,7 +56,7 @@ I'm from Buenos Aires, Argentina. I studied civil engineering at <a href="https:
 {% endfor %}
 </div>
 
-## <sub>education </sub>
+## <u>education </u>
 
 Civil Engineer. Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
 
@@ -66,9 +66,22 @@ Semi Senior Data Science Analyst at Nielsen Company. Member of Global Analytics 
 
 Internship in structural engineering office. Assistance to senior engineers in the design of steel structures and generation of documentation: Mainly industrial warehouses.
 
-## research experience
+## research and academic experience
 
-Teacher Assistant of course "Numerical Methods" at Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
+* Member of the research group GADE (Group of Analysis
+and Design of Structures). Universidad Tecnológica Nacional, Facultad Regional
+Buenos Aires.
+
+* Research Project: "Adaptive Computational Analysis in Structural Mechanics".
+Undergraduate researcher. Finite element method. Simulation of physical
+processes. Visualization of model outputs on the mechanical deformation of
+complex microstructures.
+
+* Research Project: "Numerical Methods Applied to Structural Dynamics".
+Undergraduate Researcher. Vibrations. First approach to structural health
+monitoring. Machine learning proof-of-concept for structural damage.
+
+* Teacher Assistant of course "Numerical Methods" at Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
 
 ## publications
 
