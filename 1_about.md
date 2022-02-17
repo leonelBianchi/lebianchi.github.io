@@ -40,14 +40,14 @@ permalink: /about/
 </style>
 
 
-## about
+## <u>about</u>
 
 I'm from Buenos Aires, Argentina. I studied civil engineering at <a href="https://www.frba.utn.edu.ar/" target="_blank">Universidad Tecnológica Nacional Facultad Regional Buenos Aires</a>. I participated in different kind of projects related to structural dynamics, computational models, machine learning and statistics. Open to collaborate on any kind of project and try to make it happen.
 
 <a href="https://github.com/notravarius" Target="_blank">Github</a>
 <a href="https://twitter.com/notravarius" Target="_blank">Twitter</a>
 
-## writting
+## <u>writting</u>
 
 <div>
 {% for post in site.posts %}
@@ -87,7 +87,7 @@ monitoring. Machine learning proof-of-concept for structural damage.
 
 ## <u>publications</u>
 
-* <a href="https://jornadasaie.org.ar/jornadas-aie-anteriores/2021/26jaie-trabajos/101_TRABAJO.pdf" target="_blank">Characterization of Pile Failure Dimensions Using Neural Networks" (in spanish).</a>  26° Jornadas Argentinas de Ingeniería Estructural, 2021. 
+* <a href="https://jornadasaie.org.ar/jornadas-aie-anteriores/2021/26jaie-trabajos/101_TRABAJO.pdf" target="_blank">"Characterization of Pile Failure Dimensions Using Neural Networks" (in spanish).</a>  26° Jornadas Argentinas de Ingeniería Estructural, 2021. 
 
 
 
