@@ -56,7 +56,7 @@ I'm from Buenos Aires, Argentina. I studied civil engineering at <a href="https:
 {% endfor %}
 </div>
 
-## education
+## <sub>education </sub>
 
 Civil Engineer. Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
 
