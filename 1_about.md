@@ -58,15 +58,17 @@ I'm from Buenos Aires, Argentina. I studied civil engineering at <a href="https:
 
 ## <u>education </u>
 
-Civil Engineer. Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
+* Civil Engineer. Universidad Tecnológica Nacional Facultad Regional Buenos Aires. 2016-2021.
 
-## work experience
+## <u>work experience</u>
 
-Semi Senior Data Science Analyst at Nielsen Company. Member of Global Analytics Incubator Team. Working with machine learning stuff and numerical solutiuons.
+* Semi Senior Data Science Analyst at Nielsen Company. Member of Global Analytics Incubator Team. Working with machine learning stuff and numerical solutiuons. 2021.
 
-Internship in structural engineering office. Assistance to senior engineers in the design of steel structures and generation of documentation: Mainly industrial warehouses.
+* Internship in structural engineering office. Assistance to senior engineers in the design of steel structures and generation of documentation: Mainly industrial warehouses. 2020
 
-## research and academic experience
+* Math professor. Linear Algebra and Mathematical Analysis for engineers and economists. 2017-2019
+
+## <u>research and academic experience</u>
 
 * Member of the research group GADE (Group of Analysis
 and Design of Structures). Universidad Tecnológica Nacional, Facultad Regional
@@ -83,9 +85,9 @@ monitoring. Machine learning proof-of-concept for structural damage.
 
 * Teacher Assistant of course "Numerical Methods" at Universidad Tecnológica Nacional Facultad Regional Buenos Aires.
 
-## publications
+## <u>publications</u>
 
-Characterization of Pile Failure Dimensions Using Neural Networks (in spanish).  26° Jornadas Argentinas de Ingeniería Estructural, 2021.
+* <a href="https://jornadasaie.org.ar/jornadas-aie-anteriores/2021/26jaie-trabajos/101_TRABAJO.pdf" target="_blank">Characterization of Pile Failure Dimensions Using Neural Networks" (in spanish).</a>  26° Jornadas Argentinas de Ingeniería Estructural, 2021. 
 
 
 
